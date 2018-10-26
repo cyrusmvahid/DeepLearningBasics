@@ -8,7 +8,7 @@
 
 ```{r, engine='bash', count_lines}
 cd SageMaker
-git clone https://github.com/cyrusmvahid/DeepLearningBasics.git
+git clone --recurse-submodules https://github.com/cyrusmvahid/DeepLearningBasics.git
 ```
 ---
 
